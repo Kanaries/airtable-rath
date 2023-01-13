@@ -1,0 +1,21 @@
+{
+    "scripts": {
+        "lint": "eslint --ext .js,.jsx,.ts,.tsx frontend"
+    },
+    "dependencies": {
+        "@airtable/blocks": "1.8.0",
+        "@kanaries/graphic-walker": "^0.2.10",
+        "react": "^16.9.0",
+        "react-dom": "^16.9.0",
+        "styled-components": "^5.3.6"
+    },
+    "devDependencies": {
+        "@types/styled-components": "^5.1.26",
+        "@typescript-eslint/eslint-plugin": "^3.0.2",
+        "@typescript-eslint/parser": "^2.15.0",
+        "eslint": "^6.3.0",
+        "eslint-plugin-react": "^7.14.3",
+        "eslint-plugin-react-hooks": "^2.0.1",
+        "typescript": "^3.9.3"
+    }
+}
